@@ -1,11 +1,3 @@
-NAMA KELOMPOK 5
-KETUA : MOHAMMAD ARAFAT MAKU (F55118213)
-ANGGOTA : 
-          - DWIE FAJAR FEBRILISTYAS (F55118198)
-          - ABD. RACHIM I BUTOLO    (F55118239)
-          - ZULKIFLI ALJABARULLAH   (F55118210)
-          - ANANDA PUSPITASARI      (F55118250)
-
 PORT :
 - apigateaway           : 3000
 - olahkaryawan-service  : 8080
